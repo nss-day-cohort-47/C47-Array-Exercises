@@ -5,21 +5,21 @@ This exercise is meant to help you indentify any potential weak spots in your kn
 ## Getting Started
 
 1. Clone this repo
-1. Create your own repo on Github and name it `Array Exercises`
-1. Set your local repo to point at your Github project
+1. Create your own repo on GitHub and name it `Array-Exercises`
+1. Set your local repo to point at your GitHub project
 
    ```sh
-   git remote set-url origin YOUR_GITHUB_URL_HERE
+   git remote set-url origin YOUR_GITHUB_REPO_URL_HERE
    ```
 
 1. From the root of the project, run
-   ```
+
+   ```sh
    npm install
    ```
 1. Take a look at the data in `src/data/classroom.js` to get familiar with the `students` and `instructors` arrays
 1. Implement the functions that are specified in `src/filterExercises.js` `src/findExercises.js` and `src/mapExercises.js`
 1. To test your functions, run `npm test` from the root of the project
-1. Every test that you get to pass, make a commit and push it to github
+1. Every test that you get to pass, make a commit and push it to GitHub
 
-> NOTE: These exercises are meant to assess your knowledge of `map`, `filter`, and `find`. Many of the tests will not pass if you don't use the correct method, so please avoid using `for` loops
-# array-exercises
+> NOTE: These exercises are meant to assess your knowledge of `map`, `filter`, and `find`. Many of the tests will not pass if you don't use the correct method, so please avoid using `for` loops.
